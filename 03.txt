@@ -1,2 +1,22 @@
 1232
 456789
+10wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+<<<<<<< HEAD
+j00000000000dkchdjcd'
+djdvdjnv
+=======
+jdkchdjcd
+jdhdjvhjdhvjdhvjdhjvdddhvjdhvjdhvjdhvjdvjdhjvhdjvhdjv
+<<<<<<< HEAD
+1090909
+=======
+>>>>>>> 5915d87b547e493c4d3f1b8575e3adda747d5144
+>>>>>>> 024de43e3bcfdf2833f2070130bb66a20bf4e58d
+
+
+lichao
+<<<<<<< HEAD
+wangwu
+=======
+zhangsan
+>>>>>>> d13e657f3458567fb90452d3c4a2a3df4b4f66ec
