@@ -15,4 +15,8 @@ jdhdjvhjdhvjdhvjdhjvdddhvjdhvjdhvjdhvjdvjdhjvhdjvhdjv
 
 
 lichao
+<<<<<<< HEAD
 wangwu
+=======
+zhangsan
+>>>>>>> d13e657f3458567fb90452d3c4a2a3df4b4f66ec
