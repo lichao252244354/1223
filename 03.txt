@@ -1,5 +1,10 @@
 1232
 456789
 10wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+<<<<<<< HEAD
 j00000000000dkchdjcd'
 djdvdjnv
+=======
+jdkchdjcd
+jdhdjvhjdhvjdhvjdhjvdddhvjdhvjdhvjdhvjdvjdhjvhdjvhdjv
+>>>>>>> 5915d87b547e493c4d3f1b8575e3adda747d5144
