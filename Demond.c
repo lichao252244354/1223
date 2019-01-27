@@ -21,8 +21,6 @@ int main(void)
 	}
 	printf("sucess changed\n");
 	umask(0002);
-	printf("sucess\n");
-	printf("222\n");
 	close(STDIN_FILENO);
 	int fd = open("/dev/null",O_RDWR);
 	dup2(fd,STDOUT_FILENO);
